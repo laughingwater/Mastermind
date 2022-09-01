@@ -1,3 +1,3 @@
-#Mastermind
+Mastermind
 Simple number guessing game
 
